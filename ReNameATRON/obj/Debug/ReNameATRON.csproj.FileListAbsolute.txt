@@ -1,0 +1,6 @@
+c:\users\thomas\documents\visual studio 2015\Projects\ReNameATRON\ReNameATRON\bin\Debug\ReNameATRON.exe.config
+c:\users\thomas\documents\visual studio 2015\Projects\ReNameATRON\ReNameATRON\bin\Debug\ReNameATRON.exe
+c:\users\thomas\documents\visual studio 2015\Projects\ReNameATRON\ReNameATRON\bin\Debug\ReNameATRON.pdb
+c:\users\thomas\documents\visual studio 2015\Projects\ReNameATRON\ReNameATRON\obj\Debug\ReNameATRON.csprojResolveAssemblyReference.cache
+c:\users\thomas\documents\visual studio 2015\Projects\ReNameATRON\ReNameATRON\obj\Debug\ReNameATRON.exe
+c:\users\thomas\documents\visual studio 2015\Projects\ReNameATRON\ReNameATRON\obj\Debug\ReNameATRON.pdb
